@@ -17,4 +17,7 @@
             android:drawable="@drawable/background_image">
         </rotate>
     </item>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/pbu_40_white"/>
 </layer-list>
